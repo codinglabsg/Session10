@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
 
     public void onClickSayHi(View view){
         TextView hello = (TextView) findViewById(R.id.hello);
-        hello.setText("How are you?");
+        hello.setText("How are you? I am fine thank you");
 
     }
 
